@@ -1,6 +1,6 @@
 {
   "name": "console.bark",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Logging your console, one bark at a time!",
   "main": "index.js",
   "scripts": {
