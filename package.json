@@ -1,0 +1,18 @@
+{
+  "name": "console.bark",
+  "version": "1.0.0",
+  "description": "Logging your console, one bark at a time!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console",
+    "bark",
+    "dog",
+    "npm",
+    "node"
+  ],
+  "author": "Twan Mulder",
+  "license": "MIT"
+}
