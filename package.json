@@ -1,6 +1,6 @@
 {
   "name": "console.bark",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Logging your console, one bark at a time!",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,5 @@
   ],
   "author": "Twan Mulder",
   "license": "MIT",
-  "homepage":  "https://github.com/twanmulder/console.bark"
+  "homepage": "https://github.com/twanmulder/console.bark"
 }
